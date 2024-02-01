@@ -1,3 +1,6 @@
+<img width="70" align="right"  src="https://www.cameronsworld.net/img/content/17/6.gif">
+<br />
+
 ### 🐋💨 phau
 
 <br />
@@ -6,7 +9,7 @@
 - 📚 Slowly reading https://mml-book.github.io/
 - 🎃 Some day I want to make a **horror game**.
 - 🌄 I enjoy hiking, fresh air, and enchiladas.
-- 📩  **phaunus [at] protonmail.com**
+- 📩 **phaunus [at] protonmail.com**
 
 <br />
 <details>
@@ -24,10 +27,6 @@
 - [query-html](https://github.com/ph4un00b/query_html) - Like JQ but for HTML
 - [site-generator](https://github.com/ph4un00b/simple-cli) - A static site generator
 - [json-to-html](https://github.com/ph4un00b/json2html) - Generate HTML from JSON
-
-<img width="70" align="right"  src="https://www.cameronsworld.net/img/content/17/6.gif">
-<br/>
-<br/>
 
 #### GRAPHICS
 
@@ -73,6 +72,6 @@
 - [ ] Find out Flash (AS3) stuff
 - [ ] Look at my Bitbucket and old devices for forgotten stuff
 
-<img width="80" align="right"  src="https://www.cameronsworld.net/img/content/23/frame-3/1.gif">
+<img width="80" align="left"  src="https://www.cameronsworld.net/img/content/23/frame-3/1.gif">
 
 </details>
