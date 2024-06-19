@@ -4,7 +4,7 @@
 
 <br />
 
-- 👀 Lurking between Typescript and Rust.
+- 👀 Lurking between Flutter, Typescript and Rust.
 - 📚 Slowly reading https://mml-book.github.io/
 - 🎃 Some day I want to make a **horror game**.
 - 🌄 I enjoy hiking, fresh air, and enchiladas.
