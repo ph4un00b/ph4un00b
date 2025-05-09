@@ -4,11 +4,11 @@
 
 <br />
 
-- 👀 Lurking between Flutter, Typescript and Rust.
-- 📚 Slowly reading https://mml-book.github.io/
-- 🎃 Some day I want to make a **horror game**.
-- 🌄 I enjoy hiking, fresh air, and enchiladas.
-- 📩 **phaunus [at] protonmail.com**
+- 👀 Nowadays between Flutter, Nix and Go.
+- 📚 Pending to read: https://mml-book.github.io/
+- 🎃 wish: make a **horror game**.
+- 🌄 I bloody enjoy Monty Python humour, touching grass, and big green enchiladas ftw!.
+- 📩 say hello at **phaunus@protonmail.com**
 
 <br />
 <details>
