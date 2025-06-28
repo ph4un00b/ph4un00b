@@ -4,7 +4,8 @@
 
 <br />
 
-- 👀 Nowadays between Flutter, Nix and Go.
+- 👀 Nowadays: Flutter, Objetive-C (bc it is objetive 😎) and Python for ai chunnks 🥵
+- 🐣 Pastdays: Flash (aka AS3), PHP, Ruby on Rails, Javascript, Typescript
 - 📚 Pending to read: https://mml-book.github.io/
 - 🎃 wish: make a **horror game**.
 - 🌄 I bloody enjoy Monty Python humour, touching grass, and big green enchiladas ftw!.
