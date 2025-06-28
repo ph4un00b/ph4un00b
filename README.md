@@ -4,7 +4,7 @@
 
 <br />
 
-- 👀 Nowadays: Flutter, Objetive-C (bc it is objetive 😎) and Python for ai chunnks 🥵
+- 👀 Nowadays: Flutter, Objetive-C (bc it is objetive 😎) and Python for ai chunks 🥵
 - 🐣 Pastdays: Flash (aka AS3), PHP, Ruby on Rails, Javascript, Typescript
 - 📚 Pending to read: https://mml-book.github.io/
 - 🎃 wish: make a **horror game**.
