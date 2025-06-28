@@ -13,7 +13,7 @@
 
 <br />
 <details>
-<summary><b>My projects</b></summary>
+<summary><b>some fun stuff && learnings</b></summary>
 <br />
 
 #### RUST
