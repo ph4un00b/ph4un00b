@@ -45,11 +45,11 @@
 <br />
 
 - 👀 Nowadays: Ruby/Rails again, Flutter, and Python for ai chunks
-- for the lols: C, PHP, Mobile
+- for the lols: C, PHP, Mobile, proxmox
 - 🐣 Pastdays: Flash (aka AS3), PHP, Ruby on Rails, Javascript, Typescript
 - 📚 Pending to read: https://mml-book.github.io/
 - 🎃 wish: make a **horror game**.
-- 🌄 I bloody enjoy Monty Python humour, touching grass, and big green enchiladas ftw!.
+- 🌄 Monty Python enjoyer, and big green enchiladas, ftw!.
 - 📩 say hello at **phaunus@protonmail.com**
 
 <br />
